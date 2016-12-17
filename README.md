@@ -13,7 +13,7 @@ already have one, or you may pull one off the net, for example:
 ```
 % mkdir build
 % cd build
-% curl -O http://linux.mirrors.es.net/centos/7/isos/x86_64/CentOS-7-x86_64-Minimal-1511.iso
+% curl -O http://linux.mirrors.es.net/centos/7/isos/x86_64/CentOS-7-x86_64-Minimal-1611.iso
 ```
 
 A list of CentOS mirrors is at http://isoredirect.centos.org/centos/7/isos/x86_64/
